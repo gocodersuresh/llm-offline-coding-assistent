@@ -1,0 +1,12 @@
+# requirements.txt
+# requirements.txt
+transformers>=4.38.0
+datasets
+accelerate
+sentence-transformers
+langchain>=0.2.0
+langchain-community
+faiss-cpu
+gitpython
+huggingface-hub
+torch
